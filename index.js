@@ -81,6 +81,10 @@ signupForm.addEventListener("submit", function(e) {
 
 // Signup form ends
 
+
+
+// Login form start
+
 const loginForm = document.getElementById("login");
 const passwordLogin = document.getElementById("password-login");
 const emailLogin = document.getElementById("email-login");
@@ -126,6 +130,7 @@ passwordLogin.addEventListener("keyup", function() {
 })
 
 
-// Login form start
+// Login form ends
+
 
 
